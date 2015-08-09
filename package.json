@@ -1,0 +1,23 @@
+{
+  "name": "meetmyfriendsrestapi",
+  "version": "1.0.0",
+  "description": "Rest APi's for meetmyfriend goes here",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "method-override": "^2.3.4",
+    "mongolab-provider": "^1.1.1",
+    "mongoose": "^4.1.0",
+    "morgan": "^1.6.1"
+  },
+  "devDependencies": {
+    "mongojs": "^1.0.2",
+    "restify": "^3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
